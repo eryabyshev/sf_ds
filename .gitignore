@@ -1,3 +1,7 @@
 /.idea/
 /sf_ds.iml
 /venv/
+/notebooks/.ipynb_checkpoints/
+/notebooks/PANDAS/.ipynb_checkpoints/
+/notebooks/PYTHON BASIC/.ipynb_checkpoints/
+
