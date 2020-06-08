@@ -3,7 +3,7 @@ services:
   anaconda:
     image: continuumio/anaconda3:2020.02
     volumes:
-       - ./notebooks:/opt/notebooks
+       - ./:/opt/notebooks
     ports:
       - "80:8888"
     command:
